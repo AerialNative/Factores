@@ -1,0 +1,33 @@
+var json_Estaciones_climatologicas2_7 = {
+"type": "FeatureCollection",
+"name": "Estaciones_climatologicas2_7",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "Las Palmas", "CLAVE": "3143", "Prec. Anual (mm)": "267.5" }, "geometry": { "type": "Point", "coordinates": [ -109.69721988592481, 23.680555842466536 ] } },
+{ "type": "Feature", "properties": { "ID": "El Crucero", "CLAVE": "3182", "Prec. Anual (mm)": "514.7" }, "geometry": { "type": "Point", "coordinates": [ -110.069439799441668, 23.438888372250005 ] } },
+{ "type": "Feature", "properties": { "ID": "Caduaño", "CLAVE": "3007", "Prec. Anual (mm)": "562.6" }, "geometry": { "type": "Point", "coordinates": [ -109.947220653619354, 23.331941310150501 ] } },
+{ "type": "Feature", "properties": { "ID": "Agua Caliente", "CLAVE": "3163", "Prec. Anual (mm)": "511.8" }, "geometry": { "type": "Point", "coordinates": [ -109.794447660045407, 23.441107139985728 ] } },
+{ "type": "Feature", "properties": { "ID": "Santiago", "CLAVE": "3062", "Prec. Anual (mm)": "346.1" }, "geometry": { "type": "Point", "coordinates": [ -109.718335990324292, 23.481385669599284 ] } },
+{ "type": "Feature", "properties": { "ID": "Las Cuevas", "CLAVE": "3096", "Prec. Anual (mm)": "300.3" }, "geometry": { "type": "Point", "coordinates": [ -109.67639361101071, 23.538889054996616 ] } },
+{ "type": "Feature", "properties": { "ID": "La Rivera", "CLAVE": "3030", "Prec. Anual (mm)": "277.9" }, "geometry": { "type": "Point", "coordinates": [ -109.586113196874749, 23.597220146898888 ] } },
+{ "type": "Feature", "properties": { "ID": "La Palmilla", "CLAVE": "3197", "Prec. Anual (mm)": "333" }, "geometry": { "type": "Point", "coordinates": [ -109.87499925356947, 23.792222841713876 ] } },
+{ "type": "Feature", "properties": { "ID": "San Antonio Sur", "CLAVE": "3049", "Prec. Anual (mm)": "475" }, "geometry": { "type": "Point", "coordinates": [ -110.058335275084218, 23.80694378012036 ] } },
+{ "type": "Feature", "properties": { "ID": "Todos Santos", "CLAVE": "3066.0", "Prec. Anual (mm)": "194.7" }, "geometry": { "type": "Point", "coordinates": [ -110.22333526547682, 23.448608760101198 ] } },
+{ "type": "Feature", "properties": { "ID": "Santa Inès", "CLAVE": "3178.0", "Prec. Anual (mm)": "320.5" }, "geometry": { "type": "Point", "coordinates": [ -110.149163959308851, 23.542220027502761 ] } },
+{ "type": "Feature", "properties": { "ID": "Santa Gertrudis", "CLAVE": "3060.0", "Prec. Anual (mm)": "476.5" }, "geometry": { "type": "Point", "coordinates": [ -110.074448577166379, 23.533330470247396 ] } },
+{ "type": "Feature", "properties": { "ID": "San Bartolo", "CLAVE": "3050.0", "Prec. Anual (mm)": "376.9" }, "geometry": { "type": "Point", "coordinates": [ -109.840281216146622, 23.741670516351835 ] } },
+{ "type": "Feature", "properties": { "ID": "Valle Perdido", "CLAVE": "3177.0", "Prec. Anual (mm)": "467.4" }, "geometry": { "type": "Point", "coordinates": [ -110.119443511161251, 23.69583356644883 ] } },
+{ "type": "Feature", "properties": { "ID": "La Muela", "CLAVE": "3175.0", "Prec. Anual (mm)": "289.2" }, "geometry": { "type": "Point", "coordinates": [ -110.220837812216175, 23.581948913683579 ] } },
+{ "type": "Feature", "properties": { "ID": "El Carrizal", "CLAVE": "3077", "Prec. Anual (mm)": "250.2" }, "geometry": { "type": "Point", "coordinates": [ -110.27055959577379, 23.755553890841004 ] } },
+{ "type": "Feature", "properties": { "ID": "El Triunfo", "CLAVE": "3018", "Prec. Anual (mm)": "420.1" }, "geometry": { "type": "Point", "coordinates": [ -110.109166972752845, 23.802224037124706 ] } },
+{ "type": "Feature", "properties": { "ID": "La Higuerilla", "CLAVE": "3196", "Prec. Anual (mm)": "428.3" }, "geometry": { "type": "Point", "coordinates": [ -110.070837685229449, 23.86944651757079 ] } },
+{ "type": "Feature", "properties": { "ID": "Los Divisaderos", "CLAVE": "3036", "Prec. Anual (mm)": "423.1" }, "geometry": { "type": "Point", "coordinates": [ -110.143053739898747, 23.893058946381263 ] } },
+{ "type": "Feature", "properties": { "ID": "Buenavista Sur", "CLAVE": "3194", "Prec. Anual (mm)": "342.2" }, "geometry": { "type": "Point", "coordinates": [ -110.149995475636089, 23.980551323489845 ] } },
+{ "type": "Feature", "properties": { "ID": "San Pedro", "CLAVE": "3058", "Prec. Anual (mm)": "359.0" }, "geometry": { "type": "Point", "coordinates": [ -110.263892548046186, 23.924998167245082 ] } },
+{ "type": "Feature", "properties": { "ID": "Quemado", "CLAVE": "3195", "Prec. Anual (mm)": "300.0" }, "geometry": { "type": "Point", "coordinates": [ -110.201109087540218, 24.05222141246886 ] } },
+{ "type": "Feature", "properties": { "ID": "Lagunillas", "CLAVE": "3023", "Prec. Anual (mm)": "265.0" }, "geometry": { "type": "Point", "coordinates": [ -110.355281077429311, 24.021671058852199 ] } },
+{ "type": "Feature", "properties": { "ID": "El Rosario", "CLAVE": "3015", "Prec. Anual (mm)": "97.7" }, "geometry": { "type": "Point", "coordinates": [ -110.65556002477301, 23.861107603894901 ] } },
+{ "type": "Feature", "properties": { "ID": "Alfredo V. Bonfil", "CLAVE": "3110", "Prec. Anual (mm)": "148.0" }, "geometry": { "type": "Point", "coordinates": [ -110.567782046190459, 24.148613146764234 ] } },
+{ "type": "Feature", "properties": { "ID": "La Paz", "CLAVE": "3074", "Prec. Anual (mm)": "183.6" }, "geometry": { "type": "Point", "coordinates": [ -110.336114876258861, 24.134721401344493 ] } }
+]
+}
